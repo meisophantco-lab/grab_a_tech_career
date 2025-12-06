@@ -1,0 +1,177 @@
+header{
+    min-width: calc(100% - 15%);
+    text-align: center;
+    text-decoration: dashed;
+    text-decoration: solid;
+    text-decoration: wavy;
+    margin: 40px auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            align-items: center;
+            max-width: calc(100% - 15%);
+            border-radius: 10px;
+            justify-content: center;
+            align-items: center;
+            align-self: center;
+            justify-content: center;
+            align-self: center;
+            justify-content: center;
+            justify-items: center;
+            justify-self: center;
+            align-content: center;
+            align-items: center;
+             justify-content: center;
+     justify-items: center;
+     justify-self: center;
+     text-align: center;
+     text-decoration: wavy;
+}
+
+.main-content{
+    margin: 40px auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            align-items: center;
+            min-width: calc(100% - 15%);
+            max-width: calc(100% - 15%);
+            border-radius: 10px;
+            justify-content: center;
+            align-items: center;
+            align-self: center;
+            justify-content: center;
+            align-self: center;
+            justify-content: center;
+            justify-items: center;
+            justify-self: center;
+            align-content: center;
+            align-items: center;
+             justify-content: center;
+     justify-items: center;
+     justify-self: center;
+     text-align: center;
+     text-decoration: wavy;
+}
+
+footer{
+    margin: 40px auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            align-items: center;
+            min-width: calc(100% - 15%);
+            max-width: calc(100% - 15%);
+            border-radius: 10px;
+            justify-content: center;
+            align-items: center;
+            align-self: center;
+            justify-content: center;
+            align-self: center;
+            justify-content: center;
+            justify-items: center;
+            justify-self: center;
+            align-content: center;
+            align-items: center;
+             justify-content: center;
+     justify-items: center;
+     justify-self: center;
+     text-align: center;
+     text-decoration: wavy;
+}
+
+
+.container{
+      max-width: calc(100% - 30%);
+    text-align: center;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+  .urls{
+        background-color: mediumpurple;
+        align-items: center;
+        text-align: center;
+         background-color: mediumpurple;
+    color: white;
+    margin: 40px auto;
+            padding: 20px;
+            background-color: mediumpurple;
+            border: 1px solid #ddd;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            align-self: center;
+            justify-content: center;
+            justify-items: center;
+            justify-self: center;
+            align-content: center;
+            align-items: center;
+            position: fixed;
+  }
+
+.urls a{
+          padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: normal;
+  color: white;
+  transition: 0.3s;
+}
+
+label{
+    font-size: 17px;
+}
+
+input{
+    width: calc(100% - 10%);
+    margin: 40px auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 50px;
+}
+
+#message{
+        height: 70px;
+        margin: 40px auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+}
+
+button{
+        justify-content: center;
+        min-width: calc(100% - 10%);
+        margin: 40px auto;
+            padding: 20px;
+            background-color: mediumpurple;
+            border: 1px solid #ddd;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 50px;
+
+            align-self: center;
+            justify-content: center;
+            justify-items: center;
+            justify-self: center;
+            align-content: center;
+            align-items: center;
+            color: white;
+}
+
+.button{
+            align-self: center;
+            justify-content: center;
+            justify-items: center;
+            justify-self: center;
+            align-content: center;
+            align-items: center;
+            position: static;
+            min-width: 100%;
+}
