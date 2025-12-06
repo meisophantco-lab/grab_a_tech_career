@@ -1,2 +1,2 @@
-# grab_a_tech_stack
-Grab A Tech Stack
+# grab_a_tech_career
+Grab A Tech Career
